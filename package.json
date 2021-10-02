@@ -1,0 +1,44 @@
+{
+    "name": "skandinaviska-theme",
+    "displayName": "Skandinaviska",
+    "description": "Scandinavian theme",
+    "publisher": "ArnabDey",
+    "author": {
+        "name": "Arnab Dey",
+        "email": "arnabdey1543@gmail.com"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "icon": "theme/icons/ss.png",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "categories": [
+        "Themes"
+    ],
+    
+    "galleryBanner": {
+        "color": "#039386",
+        "theme": "dark"
+    },
+    "keywords": [
+        "scandinavian Theme",
+        "Dark Theme",
+        "VSCode theme",
+        "skandinaviska",
+        "aquamarine",
+        "turquoise"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Skandinaviska",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Skandinaviska-color-theme.json"
+            }
+        ]
+    }
+}
