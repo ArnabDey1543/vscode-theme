@@ -11,7 +11,7 @@
     "engines": {
         "vscode": "^1.60.0"
     },
-    "icon": "theme/icons/ss.png",
+    "icon": "icons/ss.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/ArnabDey1543/vscode-theme"
