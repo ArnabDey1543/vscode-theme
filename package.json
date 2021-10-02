@@ -14,7 +14,7 @@
     "icon": "theme/icons/ss.png",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/ArnabDey1543/vscode-theme"
     },
     "categories": [
         "Themes"
